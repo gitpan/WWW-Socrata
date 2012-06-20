@@ -18,5 +18,8 @@ no_index:
     - t
     - inc
 requires:
+  JSON: 2.53
   Test::More: 0
-version: 0.01
+  URI::Escape: 3.31
+  WWW::Curl::Easy: 0.01
+version: 0.02
